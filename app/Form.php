@@ -14,7 +14,7 @@ class Form extends Model
 
 {
 
-   protected $table = 'cueva_2';
+   protected $table = 'las_moyas';
 
 }
 

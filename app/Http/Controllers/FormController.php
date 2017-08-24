@@ -42,7 +42,8 @@ class FormController extends BaseController
     public function listar_datos()
     {
 
-      $acceso = Form::whereYear('created_at', '=', date('Y'))->get(); 
+      $acceso = Form::where('fecha_caminata','2017-08-27')->whereYear('created_at', '=', date('Y'))->get();
+      //$acceso = Form::whereYear('created_at', '=', date('Y'))->get(); 
 
       $tabla='<table id="lista">
 
@@ -159,6 +160,7 @@ class FormController extends BaseController
         $formulario['mail'] = $input['mail'];
         $formulario['celular'] = $input['celular'];
         $formulario['eps'] = $input['eps'];
+        $formulario['fecha_caminata'] = $input['fecha_caminata'];
         $formulario->save();
         return $formulario;
     }

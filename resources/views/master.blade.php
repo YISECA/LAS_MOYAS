@@ -178,7 +178,7 @@
 
                  <div align="right"> 
 
-                    <img src="public/Img/IDRD.JPG" width="50%" heigth="40%"/>
+                    <img src="public/Img/logo.png" width="50%" heigth="40%"/>
 
                  </div>                    
 

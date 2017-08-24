@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3> PARQUE NACIONAL – CASCADA LA CUEVA Domingo 20 de agosto de  2017</h3></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3> SENDERO HORIZONTES - LAS MOYAS Domingo 27 de agosto de  2017</h3></div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/pico.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/moyas.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/pico1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/moyas1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/pico2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/moyas2.png"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -74,23 +74,21 @@
 
                     <div class="freebirdFormviewerViewHeaderDescription" dir="auto">
 
-                        <h2>Ubicación</h2>
+                        <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El sendero se encuentra ubicado en los cerros tutelares de Bogotá, en la localidad de Santa Fe entre el parque nacional (Cerro del Pico del Águila) y Monserrate. Conoceremos la historia y parte de algunos escenarios como: El parque Nacional, carabineros, Tanques y Monumento del silencio, Mirador Pico del águila, y cascada La Cueva.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El sendero se encuentra ubicado en la localidad de Chapinero, entre la calle 76 con av. circunvalar y el Barrio San Luis vía a la Calera, limita al norte con la localidad de Usaquén y al sur con la localidad de santa fe.</p>
 
-                        <h2>Descripción del recorrido </h2>
+                        <h3>Descripción del recorrido </h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en el reloj del parque nacional, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido para su ejecución y se dará inicio a la caminata.<br>
-                        Se asciende hasta la estación de carabineros en la avenida circunvalar, de allí se pasa al Monumento del silencio donde se hace una introducción al ecosistema de bosque de niebla. Luego se continúa en ascenso hasta llegar al pico de águila estupendo mirador y de allí se inicia el descenso por el bosque hasta llegar a la cascada La Cueva. Después de un agradable baño natural de agua fría se regresa por el mismo camino hasta llegar al parque nacional donde termina la actividad.  </p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la calle 76 con Av. Circunvalar CAI Rosales, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad. Desde allí se realiza el desplazamiento hacia el inicio del sendero Horizontes, hasta llegar al mirador.<br>
+                        La caminata termina en el mirador y de regreso hasta el CAI rosales.</p>
 
-                        <h2>Durante el recorrido se visitarán los siguientes atractivos:</h2>
+                        <h3>Durante el recorrido se visitarán los siguientes atractivos:</h3>
                         <ul class="ul_inicio">
                             <font style="font-size: 11pt; line-height: 25px;">
-                            <li>Parque Nacional</li>
-                            <li>Monumento del silencio  </li>
-                            <li>Pico del águila </li>
-                            <li>Cascada la cueva </li>
-                            <li>Bosque de niebla</li>
+                            <li>Miradores</li>
+                            <li>Ecosistema de Sub-páramo</li>
+                            <li>Ecosistema de Páramo</li>
                             </font>
                         </ul>
                         <br>
@@ -111,7 +109,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Reloj parque Nacional</p>
+                                            <p>CAI Rosales Av. Circunvalar calle 76 </p>
 
                                         </td>
 
@@ -127,7 +125,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 20 de agosto de 2017</p>
+                                            <p>Domingo 27 de agosto de 2017</p>
 
                                         </td>
 
@@ -193,7 +191,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.800 m.s.n.m (Aprox.)</td>
+                                            <p>3.200 m.s.n.m</td>
 
                                     </tr>
 
@@ -207,7 +205,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>14°</p>
+                                            <p>12°</p>
 
                                         </td>
 
@@ -222,7 +220,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p> Medio</p>
+                                            <p>ALTO</p>
 
                                         </td>
 
@@ -230,7 +228,7 @@
 
                         </table></center></font>
 
-                        <h2>Recomendaciones</h2>
+                        <h3>Recomendaciones</h3>
 
                         <ul class="ul_inicio">
 
@@ -256,7 +254,7 @@
 
                                 <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
 
-                                <!--<li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>-->
+                                <li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>
                             </font>
 
                             <br>
